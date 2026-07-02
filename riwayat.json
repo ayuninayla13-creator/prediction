@@ -1,0 +1,1746 @@
+[
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-06T23:06:03.796399"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-06T23:06:08.255648"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-06T23:06:12.169649"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-06T23:10:22.923164"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-06T23:10:27.833773"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-06T23:10:34.762118"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-06T23:14:43.421180"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-06T23:14:48.800353"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-06T23:14:52.261038"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-06 23:20:28"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-06 23:20:33"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-06 23:20:38"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-08-06 23:38:07"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-07 14:31:39"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-07 14:31:43"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-07 14:31:46"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-08-07 14:34:29"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tanggal": "2025-08-07 14:35:27"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tanggal": "2025-08-07 14:36:06"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-11 07:43:12"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-11 07:43:15"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-11 07:43:19"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-14 00:02:02"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-14 00:02:07"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-14 00:02:11"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-08-14 00:02:40"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tanggal": "2025-08-14 00:03:11"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tanggal": "2025-08-14 00:03:38"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-14 12:33:56"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-14 12:34:00"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-14 12:34:04"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-08-14 12:35:22"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tanggal": "2025-08-14 12:37:10"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tanggal": "2025-08-14 12:37:38"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-15 11:08:32"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-15 11:08:35"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-08-15 11:08:38"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-08-15 11:53:55"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tanggal": "2025-08-19 07:02:05"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tanggal": "2025-08-19 07:38:51"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-08-21 12:07:58"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-08-24 11:56:11"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-09-02 15:12:48"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-09-02 15:28:00"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-09-03 07:06:43"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-09-03 07:25:02"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-09-03 11:47:40"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-09-03 11:47:43"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-09-03 11:47:51"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-09-03 12:03:09"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-09-03 12:03:12"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-09-03 12:03:14"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-10-06 10:51:52"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-10-06 10:51:54"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-10-06 10:51:56"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-10-06 10:52:37"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tanggal": "2025-10-09 02:26:17"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tanggal": "2025-10-09 02:30:26"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tanggal": "2025-10-09 02:33:17"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tanggal": "2025-10-09 02:33:46"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-10-09 10:06:11"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-10-09 10:06:14"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-10-09 10:06:16"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tanggal": "2025-10-09 10:29:38"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-04 16:16:28"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-04 16:16:31"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-04 16:16:33"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-11-06 09:31:14"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-11-06 09:50:15"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-11-06 10:23:59"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-11-06 10:30:27"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-11-06 10:33:39"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tanggal": "2025-11-06 12:22:15"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tanggal": "2025-11-06 12:22:47"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-11-10 08:28:56"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-11 05:40:55"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-11 05:40:58"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-11 05:41:00"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-11-11 05:41:31"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tanggal": "2025-11-11 05:42:08"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tanggal": "2025-11-11 05:42:37"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-11 08:31:14"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-11 08:31:16"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-11 08:31:18"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tanggal": "2025-11-11 08:32:09"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tanggal": "2025-11-11 08:32:55"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tanggal": "2025-11-11 08:33:21"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2021.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2021.tif",
+    "tanggal": "2025-11-11 08:58:31"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2021.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2021.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-11 08:59:38"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-11 08:59:40"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-11 08:59:42"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2021.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2021.tif",
+    "tahun": "2021",
+    "tanggal": "2025-11-12 13:24:25"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2021.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2021.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-12 13:47:07"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-12 13:47:11"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-12 13:47:13"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2021.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2021.tif",
+    "tahun": "2021",
+    "tanggal": "2025-11-12 13:47:47"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2025-11-12 13:49:11"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2025-11-12 13:50:14"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tahun": "2022",
+    "tanggal": "2025-11-12 13:56:01"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-12 14:00:50"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-12 14:00:53"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tanggal": "2025-11-12 14:00:56"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tahun": "2022",
+    "tanggal": "2025-11-12 14:08:22"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2025-11-12 14:08:59"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2025-11-12 14:09:31"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tahun": "2022",
+    "tanggal": "2025-11-12 14:35:33"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2025-11-12 14:36:34"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2025-11-12 14:37:33"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2021.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2021.tif",
+    "klasifikasi_file": null,
+    "tahun": "2021",
+    "tanggal": "2025-11-12 15:29:31"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tahun": "2022",
+    "tanggal": "2025-11-12 15:29:33"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2025-11-12 15:29:35"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tahun": "2022",
+    "tanggal": "2025-11-12 15:30:02"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2021.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2021.tif",
+    "tahun": "2021",
+    "tanggal": "2025-11-12 15:30:47"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2025-11-12 15:31:15"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tahun": "2022",
+    "tanggal": "2025-11-13 13:47:09"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2025-11-13 13:47:12"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2025-11-13 13:47:14"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tahun": "2022",
+    "tanggal": "2025-11-13 13:47:39"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2025-11-13 13:48:08"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2025-11-13 13:48:32"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tahun": "2022",
+    "tanggal": "2025-11-13 14:58:55"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2025-11-13 14:58:56"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2025-11-13 14:58:58"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tahun": "2022",
+    "tanggal": "2025-11-13 15:04:24"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2025-11-13 15:04:27"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2025-11-13 15:04:28"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tahun": "2022",
+    "tanggal": "2025-11-16 22:50:55"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2025-11-16 22:50:57"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2025-11-16 22:51:00"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tahun": "2022",
+    "tanggal": "2025-11-20 15:02:25"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2025-11-20 15:02:29"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2025-11-20 15:02:33"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tahun": "2022",
+    "tanggal": "2025-11-20 15:03:10"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tahun": "2022",
+    "tanggal": "2026-02-04 06:13:06"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-02-04 06:13:09"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-02-04 06:13:12"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tahun": "2022",
+    "tanggal": "2026-02-04 06:13:52"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-02-04 06:14:20"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2026-02-04 06:14:49"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-02-04 06:30:28"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-02-04 06:30:31"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2025.tif",
+    "klasifikasi_file": null,
+    "tahun": "2025",
+    "tanggal": "2026-02-04 06:30:34"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-02-04 06:31:00"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2026-02-04 06:31:30"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2025.tif",
+    "tahun": "2025",
+    "tanggal": "2026-02-04 06:31:57"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-02-04 09:23:11"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-02-04 09:23:15"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2025.tif",
+    "klasifikasi_file": null,
+    "tahun": "2025",
+    "tanggal": "2026-02-04 09:23:18"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-02-04 09:23:53"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2026-02-04 09:24:22"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2025.tif",
+    "tahun": "2025",
+    "tanggal": "2026-02-04 09:24:58"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-02-04 10:25:42"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-02-04 10:25:44"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2025.tif",
+    "klasifikasi_file": null,
+    "tahun": "2025",
+    "tanggal": "2026-02-04 10:25:47"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-02-04 10:26:31"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2026-02-04 10:26:57"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2025.tif",
+    "tahun": "2025",
+    "tanggal": "2026-02-04 10:29:15"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2025.tif",
+    "tahun": "2025",
+    "tanggal": "2026-02-04 10:39:48"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-02-04 10:41:59"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-02-04 10:42:01"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2025.tif",
+    "klasifikasi_file": null,
+    "tahun": "2025",
+    "tanggal": "2026-02-04 10:42:03"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-02-04 10:47:20"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2026-02-04 10:48:51"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2025.tif",
+    "tahun": "2025",
+    "tanggal": "2026-02-04 10:50:18"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-02-09 11:54:07"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-02-09 11:54:09"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2025.tif",
+    "klasifikasi_file": null,
+    "tahun": "2025",
+    "tanggal": "2026-02-09 11:54:11"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-02-09 11:54:52"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2026-02-09 11:55:17"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2025.tif",
+    "tahun": "2025",
+    "tanggal": "2026-02-09 11:55:47"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-02-09 14:30:26"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-02-09 14:30:29"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2025.tif",
+    "klasifikasi_file": null,
+    "tahun": "2025",
+    "tanggal": "2026-02-09 14:30:31"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-02-09 14:30:53"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2026-02-09 14:31:19"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2025.tif",
+    "tahun": "2025",
+    "tanggal": "2026-02-09 14:31:45"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2019.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2019.tif",
+    "klasifikasi_file": null,
+    "tahun": "2019",
+    "tanggal": "2026-02-10 13:40:31"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2020.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2020.tif",
+    "klasifikasi_file": null,
+    "tahun": "2020",
+    "tanggal": "2026-02-10 13:40:33"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2021.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2021.tif",
+    "klasifikasi_file": null,
+    "tahun": "2021",
+    "tanggal": "2026-02-10 13:40:36"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2019.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2019.tif",
+    "tahun": "2019",
+    "tanggal": "2026-02-10 13:41:00"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2020.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2020.tif",
+    "tahun": "2020",
+    "tanggal": "2026-02-10 13:41:31"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2021.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2021.tif",
+    "tahun": "2021",
+    "tanggal": "2026-02-10 13:42:03"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2020.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2020.tif",
+    "klasifikasi_file": null,
+    "tahun": "2020",
+    "tanggal": "2026-02-10 13:50:47"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2021.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2021.tif",
+    "klasifikasi_file": null,
+    "tahun": "2021",
+    "tanggal": "2026-02-10 13:50:49"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tahun": "2022",
+    "tanggal": "2026-02-10 13:50:51"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2020.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2020.tif",
+    "tahun": "2020",
+    "tanggal": "2026-02-10 13:51:17"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2021.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2021.tif",
+    "tahun": "2021",
+    "tanggal": "2026-02-10 13:52:26"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tahun": "2022",
+    "tanggal": "2026-02-10 13:52:59"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2021.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2021.tif",
+    "klasifikasi_file": null,
+    "tahun": "2021",
+    "tanggal": "2026-02-10 13:56:56"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tahun": "2022",
+    "tanggal": "2026-02-10 13:56:58"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-02-10 13:57:01"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2021.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2021.tif",
+    "tahun": "2021",
+    "tanggal": "2026-02-10 13:57:33"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tahun": "2022",
+    "tanggal": "2026-02-10 13:58:01"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-02-10 13:58:26"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-02-10 14:00:41"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-02-10 14:00:44"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2025.tif",
+    "klasifikasi_file": null,
+    "tahun": "2025",
+    "tanggal": "2026-02-10 14:00:46"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-02-10 14:01:10"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2026-02-10 14:01:38"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2025.tif",
+    "tahun": "2025",
+    "tanggal": "2026-02-10 14:02:10"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2022.tif",
+    "klasifikasi_file": null,
+    "tahun": "2022",
+    "tanggal": "2026-02-22 13:20:30"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-02-22 13:20:33"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-02-22 13:20:35"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2022.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2022.tif",
+    "tahun": "2022",
+    "tanggal": "2026-02-22 13:21:19"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-02-22 13:21:46"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2026-02-22 13:22:14"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-05-17 09:28:55"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-05-17 09:28:57"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2025.tif",
+    "klasifikasi_file": null,
+    "tahun": "2025",
+    "tanggal": "2026-05-17 09:28:58"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-05-17 09:29:27"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2026-05-17 09:29:57"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2025.tif",
+    "tahun": "2025",
+    "tanggal": "2026-05-17 09:30:39"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-05-17 10:55:01"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-05-17 10:55:07"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2025.tif",
+    "klasifikasi_file": null,
+    "tahun": "2025",
+    "tanggal": "2026-05-17 10:55:15"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-05-17 10:55:44"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2026-05-17 10:56:37"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2025.tif",
+    "tahun": "2025",
+    "tanggal": "2026-05-17 10:57:27"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2025.tif",
+    "ndvi_file": "ndvi_Kuranji_Sentinel2_2025.tif",
+    "klasifikasi_file": null,
+    "tahun": "2025",
+    "tanggal": "2026-05-19 11:24:42"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Kuranji_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-05-19 11:24:42"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Kuranji_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-05-19 11:24:43"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Kuranji_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-05-19 11:24:53"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Kuranji_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2026-05-19 11:25:03"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2025.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Kuranji_Sentinel2_2025.tif",
+    "tahun": "2025",
+    "tanggal": "2026-05-19 11:25:11"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2025.tif",
+    "ndvi_file": "ndvi_Kuranji_Sentinel2_2025.tif",
+    "klasifikasi_file": null,
+    "tahun": "2025",
+    "tanggal": "2026-05-19 11:43:31"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Kuranji_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-05-19 11:43:31"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Kuranji_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-05-19 11:43:31"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Kuranji_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-05-19 11:43:44"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Kuranji_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2026-05-19 11:43:53"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2025.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Kuranji_Sentinel2_2025.tif",
+    "tahun": "2025",
+    "tanggal": "2026-05-19 11:44:08"
+  },
+  {
+    "wilayah": "Kuranji_Sentinel2",
+    "tahun": "2025",
+    "input_file": "Kuranji_Sentinel2_2025.tif",
+    "ndvi_file": "ndvi_Kuranji_Sentinel2_2025.tif",
+    "tanggal": "2026-05-19 12:45:09"
+  },
+  {
+    "wilayah": "Kuranji_Sentinel2",
+    "tahun": "2024",
+    "input_file": "Kuranji_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Kuranji_Sentinel2_2024.tif",
+    "tanggal": "2026-05-19 12:45:10"
+  },
+  {
+    "wilayah": "Kuranji_Sentinel2",
+    "tahun": "2023",
+    "input_file": "Kuranji_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Kuranji_Sentinel2_2023.tif",
+    "tanggal": "2026-05-19 12:45:10"
+  },
+  {
+    "wilayah": "Kuranji_Sentinel2",
+    "tahun": "2023",
+    "input_file": "Kuranji_Sentinel2_2023.tif",
+    "klasifikasi_file": "classified_Kuranji_Sentinel2_2023.tif",
+    "tanggal": "2026-05-19 12:45:29"
+  },
+  {
+    "wilayah": "Kuranji_Sentinel2",
+    "tahun": "2024",
+    "input_file": "Kuranji_Sentinel2_2024.tif",
+    "klasifikasi_file": "classified_Kuranji_Sentinel2_2024.tif",
+    "tanggal": "2026-05-19 12:45:40"
+  },
+  {
+    "wilayah": "Kuranji_Sentinel2",
+    "tahun": "2025",
+    "input_file": "Kuranji_Sentinel2_2025.tif",
+    "klasifikasi_file": "classified_Kuranji_Sentinel2_2025.tif",
+    "tanggal": "2026-05-19 12:45:49"
+  },
+  {
+    "input_file": "Lubuk_Kilangan_Sentinel2_2025.tif",
+    "ndvi_file": "ndvi_Lubuk_Kilangan_Sentinel2_2025.tif",
+    "klasifikasi_file": null,
+    "tahun": "2025",
+    "tanggal": "2026-05-19 13:20:49"
+  },
+  {
+    "input_file": "Lubuk_Kilangan_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Lubuk_Kilangan_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-05-19 13:20:49"
+  },
+  {
+    "input_file": "Lubuk_Kilangan_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Lubuk_Kilangan_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-05-19 13:20:50"
+  },
+  {
+    "input_file": "Lubuk_Kilangan_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Lubuk_Kilangan_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-05-19 13:21:06"
+  },
+  {
+    "input_file": "Lubuk_Kilangan_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Lubuk_Kilangan_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2026-05-19 13:21:20"
+  },
+  {
+    "input_file": "Lubuk_Kilangan_Sentinel2_2025.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Lubuk_Kilangan_Sentinel2_2025.tif",
+    "tahun": "2025",
+    "tanggal": "2026-05-19 13:21:34"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2025.tif",
+    "ndvi_file": "ndvi_Kuranji_Sentinel2_2025.tif",
+    "klasifikasi_file": null,
+    "tahun": "2025",
+    "tanggal": "2026-05-19 13:54:47"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Kuranji_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-05-19 13:54:48"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Kuranji_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-05-19 13:54:48"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Kuranji_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-05-19 13:54:59"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Kuranji_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2026-05-19 13:55:10"
+  },
+  {
+    "input_file": "Kuranji_Sentinel2_2025.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Kuranji_Sentinel2_2025.tif",
+    "tahun": "2025",
+    "tanggal": "2026-05-19 13:55:19"
+  },
+  {
+    "input_file": "Lubuk_Kilangan_Sentinel2_2025.tif",
+    "ndvi_file": "ndvi_Lubuk_Kilangan_Sentinel2_2025.tif",
+    "klasifikasi_file": null,
+    "tahun": "2025",
+    "tanggal": "2026-05-19 13:56:33"
+  },
+  {
+    "input_file": "Lubuk_Kilangan_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Lubuk_Kilangan_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-05-19 13:56:33"
+  },
+  {
+    "input_file": "Lubuk_Kilangan_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Lubuk_Kilangan_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-05-19 13:56:33"
+  },
+  {
+    "input_file": "Lubuk_Kilangan_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Lubuk_Kilangan_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-05-19 13:56:50"
+  },
+  {
+    "input_file": "Lubuk_Kilangan_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Lubuk_Kilangan_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2026-05-19 13:57:04"
+  },
+  {
+    "input_file": "Lubuk_Kilangan_Sentinel2_2025.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Lubuk_Kilangan_Sentinel2_2025.tif",
+    "tahun": "2025",
+    "tanggal": "2026-05-19 13:57:17"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-05-20 09:36:29"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-05-20 09:36:32"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2025.tif",
+    "klasifikasi_file": null,
+    "tahun": "2025",
+    "tanggal": "2026-05-20 09:36:34"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2023.tif",
+    "tahun": "2023",
+    "tanggal": "2026-05-20 09:37:22"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2024.tif",
+    "tahun": "2024",
+    "tanggal": "2026-05-20 09:37:48"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": null,
+    "klasifikasi_file": "classified_Koto_Tangah_Sentinel2_2025.tif",
+    "tahun": "2025",
+    "tanggal": "2026-05-20 09:38:17"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2023.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2023.tif",
+    "klasifikasi_file": null,
+    "tahun": "2023",
+    "tanggal": "2026-05-20 09:47:51"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2024.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2024.tif",
+    "klasifikasi_file": null,
+    "tahun": "2024",
+    "tanggal": "2026-05-20 09:47:54"
+  },
+  {
+    "input_file": "Koto_Tangah_Sentinel2_2025.tif",
+    "ndvi_file": "ndvi_Koto_Tangah_Sentinel2_2025.tif",
+    "klasifikasi_file": null,
+    "tahun": "2025",
+    "tanggal": "2026-05-20 09:47:56"
+  }
+]
